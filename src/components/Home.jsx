@@ -57,14 +57,11 @@ const Home = () => {
             {/* here text */}
             <div className="md:w-1/2 mx-auto mr-6">
               <h1 className="text-5xl font-semibold mb-4 text-whitesmoke md:w-3/4 leading-snug">
-                Ready to test your{" "}
+                Test your{" "}
                 <span className="text-blue leading-snug">
-                  Finance and Economics knowledge?
+                  Finance and Economics knowledge
                 </span>
               </h1>
-              <p className="text-whitesmoke text-base mb-8">
-                Finance and Economics Club
-              </p>
               <button
                 onClick={handleQuizClick} // Added onClick handler
                 className="mt-4 px-8 py-3 bg-[#88e1ff] text-white font-semibold rounded-lg shadow-lg hover:bg-[#25799b] transition duration-300 ease-in-out transform hover:scale-105"
