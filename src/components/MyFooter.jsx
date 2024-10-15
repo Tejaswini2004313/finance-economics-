@@ -29,7 +29,7 @@ const MyFooter = () => {
             </div>
             <div className="grid grid-cols-2 gap-8 sm:mt-4 sm:grid-cols-3 sm:gap-6">
               <div>
-                <Footer.Title title="about" />
+                <Footer.Title title="About" />
                 <Footer.LinkGroup col>
                   <Footer.Link>FiSOC</Footer.Link>
                   <Footer.Link href="#"></Footer.Link>
