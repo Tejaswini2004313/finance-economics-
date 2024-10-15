@@ -9,9 +9,9 @@ const Home = () => {
 
   return (
     <div className="bg-bgcolor" id="home">
-      <div className="px-4 lg:px-14 max-w-screen-2x1 mx-auto min-h-screen h-screen">
+      <div className="px-4 lg:px-14 max-w-screen-2x1 mx-auto min-h-screen">
         <Carousel className="w-full mx-auto">
-          <div className="my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
+          <div className="my-12 md:my-8 py-8 md:py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-8">
             <div className="md:w-1/3 mx-auto ml-1">
               <img src={logo2} alt="" className="w-48 h-48 md:w-64 md:h-64" />
             </div>
@@ -26,7 +26,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
+          <div className="my-12 md:my-8 py-8 md:py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-8">
             <div className="md:w-1/3 mx-auto ml-1">
               <img src={logo2} alt="" className="w-48 h-48 md:w-64 md:h-64" />
             </div>
@@ -50,7 +50,7 @@ const Home = () => {
             </div>
           </div>
 
-          <div className="my-28 md:my-8 py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12">
+          <div className="my-12 md:my-8 py-8 md:py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-8">
             <div className="md:w-1/3 mx-auto ml-1">
               <img src={logo2} alt="" className="w-48 h-48 md:w-64 md:h-64" />
             </div>
