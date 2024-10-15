@@ -35,10 +35,10 @@ const About = () => {
               Head Student Coordinator: Kajal Israni
             </p>
             <p className="text-lg text-whitesmoke mb-8">
-              Founder : Snigdha Srivastava
+              Email Id: kajal.israni@cumminscollege.in
             </p>
             <p className="text-lg text-whitesmoke mb-8">
-              Email Id: kajal.israni@cumminscollege.in
+              Founder : Snigdha Srivastava
             </p>
             <p className="text-lg text-whitesmoke mb-8">
               Faculty coordinator : Prof. Parag Chaware
