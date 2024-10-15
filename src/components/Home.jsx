@@ -4,7 +4,8 @@ import logo2 from "../assets/logo.png";
 
 const Home = () => {
   const handleQuizClick = () => {
-    window.location.href = "https://kahoot.com/";
+    window.location.href =
+      "https://www.menti.com/als71v6wtubf?source=qr-instructions-widget";
   };
 
   return (
