@@ -58,9 +58,7 @@ const Home = () => {
             <div className="md:w-1/2 mx-auto mr-6">
               <h1 className="text-5xl font-semibold mb-4 text-whitesmoke md:w-3/4 leading-snug">
                 Test your{" "}
-                <span className="text-blue leading-snug">
-                  Finance and Economics knowledge
-                </span>
+                <span className="text-blue leading-snug">knowledge</span>
               </h1>
               <button
                 onClick={handleQuizClick} // Added onClick handler
